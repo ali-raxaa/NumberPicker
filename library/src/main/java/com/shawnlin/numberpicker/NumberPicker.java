@@ -839,6 +839,11 @@ public class NumberPicker extends LinearLayout {
         paint.setTextAlign(Paint.Align.CENTER);
         mSelectorWheelPaint = paint;
 
+
+
+
+
+        
         setSelectedTextColor(mSelectedTextColor);
         setTextColor(mTextColor);
         setTextSize(mTextSize);
