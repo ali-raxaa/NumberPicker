@@ -87,7 +87,7 @@ public class NumberPicker extends LinearLayout {
     /**
      * The default update interval during long press.
      */
-    private static final long DEFAULT_LONG_PRESS_UPDATE_INTERVAL = 300;
+    private static final long DEFAULT_LONG_PRESS_UPDATE_INTERVAL = 310;
 
     /**
      * The default coefficient to adjust (divide) the max fling velocity.
