@@ -117,7 +117,8 @@ public class NumberPicker extends LinearLayout {
     /**
      * The default unscaled distance between the dividers.
      */
-    private static final int UNSCALED_DEFAULT_DIVIDER_DISTANCE = 48;
+    //private static final int UNSCALED_DEFAULT_DIVIDER_DISTANCE = 48;
+    private static final int UNSCALED_DEFAULT_DIVIDER_DISTANCE = 68;
 
     /**
      * Constant for unspecified size.
@@ -132,7 +133,7 @@ public class NumberPicker extends LinearLayout {
     /**
      * The default max value of this widget.
      */
-    private static final int DEFAULT_MAX_VALUE = 100;
+    private static final int DEFAULT_MAX_VALUE = 300;
 
     /**
      * The default min value of this widget.
@@ -147,7 +148,7 @@ public class NumberPicker extends LinearLayout {
     /**
      * The default max height of this widget.
      */
-    private static final int DEFAULT_MAX_HEIGHT = 180;
+    private static final int DEFAULT_MAX_HEIGHT = 200;
 
     /**
      * The default min width of this widget.
